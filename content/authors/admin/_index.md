@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Kiwako Sakamoto
 
 # Username (this should match the folder name)
 authors:
@@ -10,50 +10,42 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+organizations: []
+ #- name: 
+ #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Cat Herder.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+ #interests:
+ #- Algorithmic Fairness
+ #- Human interpretability of AI
+ #- AI policy
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+ #- icon: envelope
+ #  icon_pack: fas
+ #  link: mailto:  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/kiwakosakamoto
+ #- icon: google-scholar
+ #  icon_pack: ai
+ #  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/pythagoraswitch
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/kiwakosakamoto/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -65,11 +57,22 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
+ #- Researchers
+ #- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a data scientist with experience in big data applications for the public sector, primarily in international development. I have a good imagination and instincts for the utility of data projects in the real world and for how to make things happen. I also work with artists.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I have experience managing research project that involves research grant proposal, field work, and writing paper with co-PIs in academic institutions and government counterparts while managing research assistants and interns. 
+
+I have a natural tendency to care about community development, and I've put a lot of time in my previous work to identify problems and come up with solutions for the organization as well as making sure community members feel included and encouraged to share with and learn from others.
+
+My current research interests are:
+
+* Algorithmic fairness from mechanism design point of view
+* Human interpretability of deep learning model
+* AI policy / responsible use of AI in practice
+
+Previously I worked on:
+enormous Russian film/art, diplomacy, remote-sensing, development economics, data science, particle astrophysics, complex system.
